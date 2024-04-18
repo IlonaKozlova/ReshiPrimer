@@ -14,6 +14,6 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.numOne.text = "fchyjfyj"
+        binding.numOne.text = "4674"
     }
 }
